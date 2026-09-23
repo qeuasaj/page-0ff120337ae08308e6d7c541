@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d8e358d4c1b692186b2e1004",
+  "owner": "qeuasaj",
+  "repo": "page-0ff120337ae08308e6d7c541",
+  "title": "BestVpn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0ff120337ae08308e6d7c541",
+      "a": "BestVpn",
+      "b": "2027最新官网",
+      "entity": "BestVpn",
+      "brand": "BestVpn",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "59dd7b8c4e0418f8d56311caca810afc31d9653a778fa1ef3f1ae11a64909559",
+      "content": {
+        "primary_entity": "BestVpn",
+        "keyword1": "BestVpn",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择适配客户端，并参照对应订阅导入文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端与设备选择",
+          "AI_CLOSING_TEXT": "按流量、设备数与预算选择合适套餐，完成订阅配置即可使用。",
+          "AI_CLOSING_TITLE": "选择适合你的套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三种订阅方案，分别覆盖每月 100GB、300GB 和 1000GB 流量，支持 3 台、5 台和 20 台设备同时在线。旗舰版和团队版内置 IPLC 专线节点与流媒体解锁优化，适合对速度和稳定性有更高要求的用户。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量和订阅周期三个维度了解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，按需选择更灵活。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TEXT_2": "基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长周期订阅更划算。",
+          "AI_FEATURE_TITLE_2": "订阅周期对比",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线游戏加速和流媒体解锁，团队版提供 VIP 高带宽与定制路由方案。",
+          "AI_FEATURE_TITLE_3": "线路与场景优化",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三个步骤即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "BestVpn 提供覆盖多地区的网络加速服务，通过订阅配置在常用设备上接入节点。基础版、旗舰版和团队版在流量、设备数量和线路类型上有不同侧重，可按实际用量和终端数量选择。",
+          "AI_HERO_SUBTITLE": "多设备网络加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐满足不同流量需求",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 专线与流媒体解锁优化",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版平衡流量与设备数，团队版面向多终端高带宽场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和常用设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配情况，查看订阅导入所需的配置要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端的订阅导入文档，完成节点配置并开始使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BestVpn 加速方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备在线。适合轻度浏览和流媒体需求的个人用户。",
+          "AI_FAQ_ANSWER_2": "旗舰版支持 5 台设备在线，团队版支持 20 台设备在线，可根据常用设备数量选择合适的套餐。",
+          "AI_FAQ_ANSWER_3": "可以。基础版解锁基础流媒体，旗舰版提供全节点原生流媒体解锁，团队版包含 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算，基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850。",
+          "AI_FAQ_ANSWER_5": "订阅链接在套餐页面或账户中心获取，不同客户端导入方式不同，按对应客户端的使用文档操作即可完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "基础版包含多少流量和设备数量？",
+          "AI_FAQ_QUESTION_2": "旗舰版最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流媒体解锁能力有区别吗？",
+          "AI_FAQ_QUESTION_4": "按年付有什么价格优惠？",
+          "AI_FAQ_QUESTION_5": "如何将 BestVpn 订阅导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mes15rn9f7sa25i.com",
+    "host": "xn--mes15rn9f7sa25i.com"
+  },
+  "file_hashes": {
+    "index.html": "486e8a8f8067e3820908d366c4d3acbe88d45cfcdfec5f14675e94f540c8683e",
+    "sitemap.xml": "b75b4b14e1275519c2649b8d184812baf1518058d603ccfbf35d934a61abd046",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "67e7978c90b15b9ab5301d33974527cd2484dd0b679dba61de46d380e73dacfb",
+    "robots.txt": "c9fff10ce8eb4125aa73669700712d497eabd520d0db6818b8830a0a9e288955",
+    "ad52b51e58f1f5c782329a51aff5f470.txt": "8443036918b9bd9cbda7b420a6b31d3aab5ce39d537a86436749509d52334874"
+  },
+  "revision": "38cda0d2f6a3bd78c93ac3e2b46bba7a20eaf8a88cc0575be2df75e1f0a08e5f"
+}
